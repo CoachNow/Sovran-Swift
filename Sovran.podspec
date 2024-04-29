@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "Sovran-Swift"
+  s.name             = "Sovran"
   s.version          = "1.1.1"
   s.summary          = "Small, Efficient, Easy.  State Management for Swift"
 
